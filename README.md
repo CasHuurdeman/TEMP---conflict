@@ -1,8 +1,7 @@
-# TEMP---conflict 
+# TEMP---conflict
 Make lekker many conflicten
 
-Boogus nietBlaBla
-Boogus
+LIMBURG<3
 
 HMMMMMMMkzitinVIM bye
 
