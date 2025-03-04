@@ -1,7 +1,3 @@
-# TEMP---conflict
-Make lekker many conflicten
-
-
   Yb,     ________            
    Y8baadP""""""""Yba,_      
 aaadP"'             `""Yb,   
@@ -34,5 +30,5 @@ aaadP"'             `""Yb,
                           88888888                         88888888'
 
 
-THE HORSE IS WALKING TO THE LEFT
 
+I DONT CARE I DONT CARE
