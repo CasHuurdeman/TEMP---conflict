@@ -1,5 +1,8 @@
 # TEMP---conflict
-Ma ke le kker ma ny conf licten
+Make lekker many conflicten
 
-B oogus  ni e tBl aBla
-Bo ogus
+Boogus nietBlaBla
+Boogus
+
+HMMMMMMMkzitinVIM bye
+
